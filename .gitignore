@@ -1,0 +1,10 @@
+node_modules
+.DS_Store
+dist
+*.local
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
