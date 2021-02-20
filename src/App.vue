@@ -1,12 +1,6 @@
 <template>
-  <h1>vue2</h1>
+<div>
+  <h3 class="py-2 text-center">vue2</h3>
+  <router-view />
+</div>
 </template>
-
-<script>
-
-export default {
-  name: 'App',
-  components: {
-  },
-}
-</script>
