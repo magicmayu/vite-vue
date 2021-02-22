@@ -2,7 +2,7 @@ const routes = [
   {
     path: '/home',
     name: 'home',
-    component: () => import('../views/Home.vue'),
+    component: () => import('../../nested/home/Home.vue'),
   },
   {
     path: '/',
